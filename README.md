@@ -117,14 +117,6 @@ El flujo de la aplicación sigue esta secuencia:
 
 ---
 
-## 🔮 Mejoras Futuras
-
-- Agregar soporte para múltiples modelos (Mistral, Gemma, CodeLlama) seleccionables desde la interfaz.
-- Implementar streaming de respuestas para una experiencia más fluida.
-- Agregar opción para exportar el historial de conversación.
-- Incluir soporte para carga de documentos (RAG) para que el bot responda basándose en archivos del usuario.
-
----
 
 ## 👤 Autor
 
